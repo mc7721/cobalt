@@ -1,0 +1,77 @@
+{
+    "name": "Cobalt",
+    "description": "Cobalt.io is the future of penetration testing. We leverage global talent and a software platform to deliver a better penetration test.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18903-cobalt.jpg",
+    "tags": [
+        "api provider",
+        "have api",
+        "security"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/cobalt\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Cobalt",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/18903-cobalt.jpg",
+            "humanURL": "https:\/\/cobalt.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cobalt-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/cobalt-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/cobalt.io\/blog"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/cobalt-io"
+        },
+        {
+            "type": "Email",
+            "url": "hello@cobalt.io"
+        },
+        {
+            "type": "Email",
+            "url": "demo@cobalt.io"
+        },
+        {
+            "type": "Email",
+            "url": "support@cobalt.io"
+        },
+        {
+            "type": "Email",
+            "url": "partner@cobalt.io"
+        },
+        {
+            "type": "Email",
+            "url": "press@cobalt.io"
+        },
+        {
+            "type": "Email",
+            "url": "info@cobalt.io"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/cobalt_io"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/cobalt.io\/"
+        }
+    ]
+}
